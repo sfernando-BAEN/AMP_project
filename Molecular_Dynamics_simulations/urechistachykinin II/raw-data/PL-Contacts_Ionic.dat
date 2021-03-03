@@ -1,0 +1,6 @@
+  # Frame#   Residue#      Chain    ResName   AtomName  LigandFragment      LigandAtom   Distance
+       181        314          H        ASP        OD2       L-FRAG_24            N125      4.960 
+       368        314          H        ASP        OD2       L-FRAG_24            N125      3.600 
+       441        314          H        ASP        OD2       L-FRAG_24            N125      4.550 
+       442        314          H        ASP        OD2       L-FRAG_24            N125      4.120 
+       463        314          H        ASP        OD2       L-FRAG_24            N125      4.310 

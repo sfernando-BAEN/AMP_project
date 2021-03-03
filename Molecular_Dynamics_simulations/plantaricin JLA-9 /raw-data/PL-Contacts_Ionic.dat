@@ -1,0 +1,18 @@
+  # Frame#   Residue#      Chain    ResName   AtomName  LigandFragment      LigandAtom   Distance
+        27        314          H        ASP        OD2       L-FRAG_10             N76      4.820 
+        50        314          H        ASP        OD2       L-FRAG_10             N76      4.300 
+        61        314          H        ASP        OD2       L-FRAG_10             N76      3.310 
+       105        314          H        ASP        OD2       L-FRAG_10             N76      3.720 
+       106        314          H        ASP        OD2       L-FRAG_10             N76      4.630 
+       107        314          H        ASP        OD2       L-FRAG_10             N76      3.560 
+       108        314          H        ASP        OD2       L-FRAG_10             N76      3.770 
+       182        314          H        ASP        OD2       L-FRAG_10             N76      2.700 
+       264        314          H        ASP        OD2       L-FRAG_10             N76      3.610 
+       266        314          H        ASP        OD2       L-FRAG_10             N76      2.810 
+       296        314          H        ASP        OD2       L-FRAG_10             N76      4.050 
+       302        314          H        ASP        OD2       L-FRAG_10             N76      4.520 
+       320        314          H        ASP        OD2       L-FRAG_10             N76      4.370 
+       329        314          H        ASP        OD2       L-FRAG_10             N76      2.810 
+       334        314          H        ASP        OD2       L-FRAG_10             N76      4.800 
+       359        314          H        ASP        OD2       L-FRAG_10             N76      2.950 
+       382        314          H        ASP        OD2       L-FRAG_10             N76      4.950 

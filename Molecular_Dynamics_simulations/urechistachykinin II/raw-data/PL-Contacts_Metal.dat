@@ -1,0 +1,17 @@
+  # Frame#            Type            Site       MetalSite   Distance
+       162       prot-side    H:LYS_113:NZ       prot-side      3.170 
+       162          ligand  L-FRAG_23:N124          ligand      3.290 
+       449       prot-side    H:SER_316:OG       prot-side      3.200 
+       449          ligand  L-FRAG_24:N125          ligand      3.370 
+       455       prot-side    H:LYS_113:NZ       prot-side      3.370 
+       455          ligand  L-FRAG_24:N125          ligand      3.190 
+       464       prot-side    H:LYS_113:NZ       prot-side      3.180 
+       464          ligand  L-FRAG_19:N115          ligand      3.300 
+       465       prot-side    H:LYS_113:NZ       prot-side      3.240 
+       465          ligand  L-FRAG_19:N115          ligand      3.360 
+       466       prot-side    H:LYS_113:NZ       prot-side      3.240 
+       466          ligand  L-FRAG_19:N115          ligand      3.370 
+       468       prot-side    H:LYS_113:NZ       prot-side      3.170 
+       468          ligand  L-FRAG_19:N115          ligand      3.360 
+       478       prot-side    H:LYS_113:NZ       prot-side      3.320 
+       478          ligand  L-FRAG_19:N115          ligand      3.380 
